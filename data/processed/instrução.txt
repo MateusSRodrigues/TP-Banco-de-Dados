@@ -1,0 +1,1 @@
+o arquivo 'acidentes_transito.duckdb' será gerado automaticamente aqui
