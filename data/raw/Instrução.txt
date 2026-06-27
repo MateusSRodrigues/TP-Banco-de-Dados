@@ -1,0 +1,1 @@
+O git hub não suporta o tamanho dos arquivos csv. Para testar baixe os arquivos e cole nessa pasta. https://drive.google.com/drive/folders/1vkcqFdrBXrbqDGY8xRTR0e7OnfrR-6lW?usp=drive_link
